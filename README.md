@@ -9,7 +9,7 @@ COLLATZ GENERATOR
     value.
   
   Deprecation Statement:
-    The project has been deprecated, because the results do not display sufficient variance on the entire domain of 32 bit integers.
+    The project has been deprecated, because the results do not display sufficient variance on the entire domain of 32 bit     integers.
   
   Continued Use:
     The seed method is independently useful, and provides a method of ensuring system, instance, and time dependence of seeds.
