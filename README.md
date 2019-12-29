@@ -13,10 +13,10 @@ COLLATZ GENERATOR
   
   Continued Use:
     The seed method is independently useful, and provides a method of ensuring system, instance, and time dependence of seeds.
-     
-    The generator may still be useful for providing seemingly random inputs in test enviroments. It is recommended that the range be
-    restricted in the same manner as Java's native RNG, by using the modular operator.
-
+    
+    The generator may still be useful for providing seemingly random inputs in test enviroments. It is recommended that the
+    range be restricted in the same manner as Java's native RNG, by using the modular operator.
+    
   Version History:
     V1.0 Supports positive integers and streams of approximately 2 billion random integers.
     V1.1 Supports all integers, and infinite streams.
