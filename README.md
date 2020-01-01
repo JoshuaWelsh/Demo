@@ -1,5 +1,6 @@
 # demo
 Sample Projects for Future Collaborators
+
 PRIME GENERATOR
   Purpose:
     Implements the 'Supplier' functional interface and generates prime numbers, in order, five at a time. Uses lazy evaluation
